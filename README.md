@@ -1,1 +1,2 @@
-# dog_detection
+# Dog Detection
+Dog detection by using YOLO algorithm.
